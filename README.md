@@ -9,11 +9,11 @@ I'm a Full Stack Developer Passionate about the best web and mobile development 
 
 <div align="center" >
 
-[![ELCIO JÚNIOR github stats](https://github-readme-stats.vercel.app/api?username=Elcio-Junior&show_icons=true&theme=vue&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elcio-Junior&layout=compact&theme=vue&show_icons=true)
+![ELCIO JÚNIOR github stats](https://github-readme-stats.vercel.app/api?username=Elcio-Junior&show_icons=true&theme=vue&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elcio-Junior&layout=compact&theme=vue&show_icons=true)
 <div style="align-self: center;align-items: center; display: flex; justify-content: space-between; width: 150px;" >
    <a href="https://www.linkedin.com/in/elcio-juniorr/">
-    <img src="https://github.com/Elcio-Junior/Elcio-Junior/raw/master/github/linkedin.png" alt="linkedin" height="50">
+    <img src="https://github.com/Elcio-Junior/Elcio-Junior/blob/main/github/youtube.png" alt="linkedin" height="50">
   </a>
 </div>
 </div>
