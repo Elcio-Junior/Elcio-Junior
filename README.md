@@ -5,7 +5,7 @@ I'm a Full Stack Developer Passionate about the best web and mobile development 
 
 - 🔭 I’m currently working on AYESA.
 - 🌱 I have experience with | Microsoft Azure | SQL Server | Net Core | C# | MongoDB | Redis | CQRS | DDD | Scrum | DevOps | RabbitMQ | Background Service ...
-- See my LinkedIn: [ELCIO JÚNIOR](https://www.linkedin.com/in/elcio-juniorr/){:target="_blank"}
+- See my LinkedIn: [ELCIO JÚNIOR](https://www.linkedin.com/in/elcio-juniorr/)
 
 <div align="center" >
    
