@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**Elcio-Junior/Elcio-Junior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full Stack Developer Passionate about the best web and mobile development technologies. I have experience with projects using C - Sharp(C#), .net and all microsoft universe
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on AYESA.
+- 🌱 I have experience with | Microsoft Azure | SQL Server | Net Core | C# | MongoDB | Redis | CQRS | DDD | Scrum | DevOps | RabbitMQ | Background Service ...
+- See my LinkedIn: [ELCIO JÚNIOR](https://www.linkedin.com/in/elcio-juniorr/)
+
+<div align="center" >
+
+[![ELCIO JÚNIOR github stats](https://github-readme-stats.vercel.app/api?username=Elcio-Junior&show_icons=true&theme=vue&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elcio-Junior&layout=compact&theme=vue&show_icons=true)
+<div style="align-self: center;align-items: center; display: flex; justify-content: space-between; width: 150px;" >
+   <a href="https://www.linkedin.com/in/elcio-juniorr/">
+    <img src="https://github.com/Elcio-Junior/Elcio-Junior/raw/master/github/linkedin.png" alt="linkedin" height="50">
+  </a>
+</div>
+</div>
+
